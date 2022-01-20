@@ -1,0 +1,33 @@
+.div-title{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 300px;
+    color: blue;
+}
+body {
+    background-image: url('img/background-img.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.next-button{
+    float: right;
+    margin-top: 450px;
+    padding-right: 30px;
+}
+.next{
+    height: 50px;
+    width: 100px;
+}
+.previous-button{
+    float: left;
+    margin-top: 450px;
+    padding-left: 30px;
+}
+.previous{
+    height: 50px;
+    width: 100px;
+}
