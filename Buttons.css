@@ -1,0 +1,14 @@
+.next-button{
+    float: right;
+}
+.next{
+    height: 50px;
+    width: 100px;
+}
+.previous-button{
+    float: left;
+}
+.previous{
+    height: 50px;
+    width: 100px;
+}

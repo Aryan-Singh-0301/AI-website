@@ -1,27 +1,6 @@
-body {
-    background-color: aliceblue;
-}
 .font {
     font-family: "Georgia";
 }
 #indent {
     text-indent: 50px;
-}
-.next-button{
-    float: right;
-    margin-top: 30px;
-    padding-right: 30px;
-}
-.next{
-    height: 50px;
-    width: 100px;
-}
-.previous-button{
-    float: left;
-    margin-top: 30px;
-    padding-left: 30px;
-}
-.previous{
-    height: 50px;
-    width: 100px;
 }
